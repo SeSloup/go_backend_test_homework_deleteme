@@ -1,5 +1,5 @@
 package main
-
+//sologub 31052025
 import (
 	"fmt"
 )
